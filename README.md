@@ -81,4 +81,4 @@ Zip: Any 5 digits
 
 ## 👨‍💻 Author
  - Awais Saddiqui 
-   Portfolio: https://awaissaddiqui.web.app
+ - Portfolio: https://awaissaddiqui.web.app
