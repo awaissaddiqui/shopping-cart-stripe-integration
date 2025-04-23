@@ -30,8 +30,22 @@ A full-stack eCommerce web application built using **React**, **TypeScript**, **
 ---
 
 ## 📂 Project Structure
-<pre><code>``` root/ ├── client/ # React frontend │ ├── src/ │ │ ├── components/ │ │ ├── pages/ │ │ ├── ProductPage.tsx │ │ ├── ProductCart.tsx │ │ ├── CheckoutPage.tsx │ │ └── main.tsx │ └── tailwind.config.js ├── server/ # Express backend │ ├── index.js │ └── .env └── README.md ```</code></pre>
-
+```bash
+root/
+├── client/ # React frontend
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── ProductPage.tsx
+│ │ ├── ProductCart.tsx
+│ │ ├── CheckoutPage.tsx
+│ │ └── main.tsx
+│ └── tailwind.config.js
+├── server/ # Express backend
+│ ├── index.js
+│ └── .env
+└── README.md
+```
 ---
 
 ## 📦 Installation
