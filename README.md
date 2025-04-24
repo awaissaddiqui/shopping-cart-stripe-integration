@@ -4,6 +4,11 @@ A full-stack eCommerce web application built using **React**, **TypeScript**, **
 
 ---
 
+- Demo: [Localhost:3000](http://localhost:3000) (after running the app)
+<video src="./Stripe Integration.mp4" controls width="600" height="400" autoplay loop>
+ </video>
+
+
 ## 🚀 Features
 
 - 🛒 Browse and add products to cart
