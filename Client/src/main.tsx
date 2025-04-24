@@ -8,7 +8,6 @@ import { loadStripe } from '@stripe/stripe-js';
 
 import ProductPage from './ProductPage';
 import ProductCart from './ProductCart';
-import CheckoutPage from './component/CheckoutPage';
 import Navbar from './Navbar';
 // import PaymentSuccess from './pages/PaymentSuccess'; // optional
 // import PaymentCancel from './pages/PaymentCancel';   // optional
@@ -41,7 +40,6 @@ const App = () => {
         <Routes>
           <Route path="/" element={<ProductPage onAddToCart={handleAddToCart} />} />
           <Route path="/cart" element={<ProductCart cart={cart} setCart={setCart} />} />
-          <Route path="/checkout" element={<CheckoutPage cart={cart} />} />
         </Routes>
       </BrowserRouter>
 
